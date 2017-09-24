@@ -27,14 +27,37 @@
     <Content Include="Content\ExtractCorpses_Assets.upk">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Localization\ExtractCorpsesWOTC.int">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Localization\XComGame.int">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ReadMe.txt" />
+    <Content Include="ModPreview.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_Ability_DeployFultonHarness.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_Action_FultonExtraction.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_Actor_FultonRadius.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_Condition_IsFultonable.uc">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_EnableCarrying.uc">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_Item_FultonHarness.uc">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_TacticalCleanup.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\ExtractCorpsesWOTC\Classes\ExtractCorpses_X2AbilityPassiveAOE_ShowFultonRadii.uc">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Src\ExtractCorpsesWOTC\Classes\X2DownloadableContentInfo_ExtractCorpsesWOTC.uc">

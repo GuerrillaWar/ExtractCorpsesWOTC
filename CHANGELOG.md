@@ -4,6 +4,10 @@ All notable changes to 'Extract Corpses WOTC' will be documented in this file.
 
 ## Unreleased Changes
 
+## 1.1.0 - 2017-09-24
+### Added
+- allow usage of a Fulton Harness, with a first pass balloon animation.
+
 ## 1.0.0 - 2017-09-24
 ### Added
 - allow configuration of a list character groups and template names to allow

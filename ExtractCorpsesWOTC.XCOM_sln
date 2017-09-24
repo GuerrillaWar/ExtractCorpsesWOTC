@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # XCOM ModBuddy Solution File, Format Version 11.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "ExtractCorpsesWOTC", "ExtractCorpsesWOTC\ExtractCorpsesWOTC.x2proj", "{C0CB5604-13C7-4654-AFA9-A815ABD977A0}"
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "ExtractCorpsesWOTC", "ExtractCorpsesWOTC\ExtractCorpsesWOTC.x2proj", "{E9DD2965-1CE1-4EB5-97AD-7EE06C026610}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Default|XCOM 2 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0CB5604-13C7-4654-AFA9-A815ABD977A0}.Debug|XCOM 2.ActiveCfg = Debug|XCOM 2
-		{C0CB5604-13C7-4654-AFA9-A815ABD977A0}.Debug|XCOM 2.Build.0 = Debug|XCOM 2
-		{C0CB5604-13C7-4654-AFA9-A815ABD977A0}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
-		{C0CB5604-13C7-4654-AFA9-A815ABD977A0}.Default|XCOM 2.Build.0 = Default|XCOM 2
+		{E9DD2965-1CE1-4EB5-97AD-7EE06C026610}.Debug|XCOM 2.ActiveCfg = Debug|XCOM 2
+		{E9DD2965-1CE1-4EB5-97AD-7EE06C026610}.Debug|XCOM 2.Build.0 = Debug|XCOM 2
+		{E9DD2965-1CE1-4EB5-97AD-7EE06C026610}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
+		{E9DD2965-1CE1-4EB5-97AD-7EE06C026610}.Default|XCOM 2.Build.0 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
