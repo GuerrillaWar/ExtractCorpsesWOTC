@@ -18,7 +18,7 @@ event name CallMeetsConditionWithSource(XComGameState_BaseObject kTarget, XComGa
 	SourceState = XComGameState_Unit(kSource);
 	if (TargetState != none && SourceState != none)
 	{
-		if (TargetState.IsAbleToAct() && SourceState.IsEnemyUnit(TargetState))
+		if ((TargetState.StunnedActionPoints > 0 || TargetState.StunnedThisTurn > 0) && TargetState.ActionPoints.Length < 1  && SourceState.IsEnemyUnit(TargetState))
 		{   // cannot fulton active enemies
 			RetCode = 'AA_NoTargets';
 		}
